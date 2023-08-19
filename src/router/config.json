@@ -1,0 +1,352 @@
+[
+  {
+    "title": "指示板",
+    "icon": "home",
+    "path": "/main/",
+    "src": "dashboard",
+    "summary": "statistics, charts, recent events and reports",
+    "children": []
+  },
+  {
+    "heading": true,
+    "title": "UI Features"
+  },
+  {
+    "title": "颜色",
+    "icon": "diamond",
+    "path": "/main/color",
+    "src": "pages/color.md",
+    "summary": "",
+    "children": []
+  },
+  {
+    "title": "进度条",
+    "icon": "puzzle",
+    "path": "/main/progress",
+    "src": "pages/progress-bar.md",
+    "summary": "",
+    "children": []
+  },
+  {
+    "title": "手风琴",
+    "icon": "puzzle",
+    "path": "/main/accordion",
+    "src": "pages/accordion.md",
+    "summary": "",
+    "children": []
+  },
+  {
+    "title": "警告提示",
+    "icon": "puzzle",
+    "path": "/main/alert",
+    "src": "pages/alert.md",
+    "summary": "",
+    "children": []
+  },
+  {
+    "title": "徽标",
+    "icon": "puzzle",
+    "path": "/main/bdge",
+    "src": "pages/badge.md",
+    "summary": "",
+    "children": []
+  },
+  {
+    "title": "标签",
+    "icon": "puzzle",
+    "path": "/main/lable",
+    "src": "pages/lable.md",
+    "summary": "",
+    "children": []
+  },
+  {
+    "title": "按钮",
+    "icon": "puzzle",
+    "path": "/main/button",
+    "src": "pages/button.md",
+    "summary": "",
+    "children": []
+  },
+  {
+    "title": "复选框",
+    "icon": "puzzle",
+    "path": "/main/checkbox",
+    "src": "pages/checkbox.md",
+    "summary": "",
+    "children": []
+  },
+  {
+    "title": "单选框",
+    "icon": "puzzle",
+    "path": "/main/radio",
+    "src": "pages/radio.md",
+    "summary": "",
+    "children": []
+  },
+  {
+    "title": "日期选择器",
+    "icon": "puzzle",
+    "path": "/main/datepicker",
+    "src": "pages/datepicker.md",
+    "summary": "",
+    "children": []
+  },
+  {
+    "title": "表单容器",
+    "icon": "puzzle",
+    "path": "/main/form",
+    "src": "pages/form.md",
+    "summary": "",
+    "children": []
+  },
+  {
+    "title": "列表",
+    "icon": "puzzle",
+    "path": "/main/list",
+    "src": "pages/list.md",
+    "summary": "",
+    "children": []
+  },
+  {
+    "title": "对话框",
+    "icon": "puzzle",
+    "path": "/main/modal",
+    "src": "pages/modal.md",
+    "summary": "",
+    "children": []
+  },
+  {
+    "title": "便签",
+    "icon": "puzzle",
+    "path": "/main/note",
+    "src": "pages/note.md",
+    "summary": "",
+    "children": []
+  },
+  {
+    "title": "分页",
+    "icon": "puzzle",
+    "path": "/main/pagination",
+    "src": "pages/pagination.md",
+    "summary": "",
+    "children": []
+  },
+  {
+    "title": "面板",
+    "icon": "puzzle",
+    "path": "/main/panel",
+    "src": "pages/panel.md",
+    "summary": "",
+    "children": []
+  },
+  {
+    "title": "气泡卡片",
+    "icon": "puzzle",
+    "path": "/main/popover",
+    "src": "pages/popover.md",
+    "summary": "",
+    "children": []
+  },
+  {
+    "title": "气泡确认框",
+    "icon": "puzzle",
+    "path": "/main/popconfirm",
+    "src": "pages/popconfirm.md",
+    "summary": "",
+    "children": []
+  },
+  {
+    "title": "内容窗口",
+    "icon": "puzzle",
+    "path": "/main/portlet",
+    "src": "pages/portlet.md",
+    "summary": "",
+    "children": []
+  },
+  {
+    "title": "下拉选择",
+    "icon": "puzzle",
+    "path": "/main/selectbox",
+    "src": "pages/selectbox.md",
+    "summary": "",
+    "children": []
+  },
+  {
+    "title": "多项选择",
+    "icon": "puzzle",
+    "path": "/main/multiselect",
+    "src": "pages/multiselect.md",
+    "summary": "",
+    "children": []
+  },
+  {
+    "title": "标签页",
+    "icon": "puzzle",
+    "path": "/main/tabs",
+    "src": "pages/tabs.md",
+    "summary": "",
+    "children": []
+  },
+  {
+    "title": "文本框",
+    "icon": "puzzle",
+    "path": "/main/textbox",
+    "src": "pages/textbox.md",
+    "summary": "",
+    "children": []
+  },
+  {
+    "title": "工具提示",
+    "icon": "puzzle",
+    "path": "/main/tooltip",
+    "src": "pages/tooltip.md",
+    "summary": "",
+    "children": []
+  },
+  {
+    "title": "开关",
+    "icon": "puzzle",
+    "path": "/main/switch",
+    "src": "pages/switch.md",
+    "summary": "",
+    "children": []
+  },
+  {
+    "title": "树视图",
+    "icon": "puzzle",
+    "path": "/main/tree",
+    "src": "pages/tree.md",
+    "summary": "",
+    "children": []
+  },
+  {
+    "title": "树形选择",
+    "icon": "puzzle",
+    "path": "/main/treeselect",
+    "src": "pages/treeselect.md",
+    "summary": "",
+    "children": []
+  },
+  {
+    "title": "文字井",
+    "icon": "puzzle",
+    "path": "/main/well",
+    "src": "pages/well.md",
+    "summary": "",
+    "children": []
+  },
+  {
+    "title": "表格",
+    "icon": "puzzle",
+    "path": "/main/table",
+    "src": "pages/table.md",
+    "summary": "",
+    "children": []
+  },
+  {
+    "title": "Menu Example",
+    "heading": true
+  },
+  {
+    "title": "Multi Level Menu",
+    "icon": "puzzle",
+    "summary": "",
+    "children": [
+      {
+        "title": "Item 1",
+        "icon": "puzzle",
+        "summary": "",
+        "children": [
+          {
+            "title": "Item 11",
+            "icon": "puzzle",
+            "summary": "",
+            "children": [],
+            "path": "/main/ui_switch",
+            "src": "ui_switch"
+          },
+          {
+            "title": "Item 12",
+            "icon": "puzzle",
+            "summary": "",
+            "children": [],
+            "path": "/main/ui_multiselect",
+            "src": "ui_multiselect"
+          },
+          {
+            "title": "Item 13",
+            "icon": "puzzle",
+            "summary": "",
+            "children": [],
+            "path": "/main/ui_inputs",
+            "src": "ui_inputs"
+          }
+        ]
+      },
+      {
+        "title": "Item 2",
+        "icon": "puzzle",
+        "summary": "",
+        "children": [],
+        "path": "/main/ui_general",
+        "src": "ui_general"
+      },
+      {
+        "title": "Item 3",
+        "icon": "puzzle",
+        "summary": "",
+        "children": [],
+        "path": "/main/page",
+        "src": "pages/page.md"
+      },
+      {
+        "title": "Item 4",
+        "icon": "puzzle",
+        "summary": "",
+        "children": [],
+        "path": "/main/ui_dropdown",
+        "src": "ui_dropdown"
+      },
+      {
+        "title": "Item 5",
+        "icon": "puzzle",
+        "summary": "",
+        "children": [],
+        "path": "/main/ui_tree",
+        "src": "ui_tree"
+      },
+      {
+        "title": "Item 6",
+        "icon": "puzzle",
+        "summary": "",
+        "children": [],
+        "path": "/main/ui_tables",
+        "src": "ui_tables"
+      },
+      {
+        "title": "Item 7",
+        "icon": "puzzle",
+        "summary": "",
+        "children": [],
+        "path": "/main/ui_overlaies",
+        "src": "ui_overlaies"
+      },
+      {
+        "title": "Item 8",
+        "icon": "puzzle",
+        "summary": "",
+        "children": [],
+        "path": "/main/ui_ribbons",
+        "src": "ui_ribbons"
+      },
+      {
+        "title": "Item 9",
+        "icon": "puzzle",
+        "summary": "",
+        "children": [],
+        "path": "/main/ui_steps",
+        "src": "ui_steps"
+      }
+    ]
+  }
+]
